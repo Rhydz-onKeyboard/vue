@@ -1,0 +1,14 @@
+.color-box{
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+}
+.cart {
+    margin-right: 25px;
+    float: right;
+    border: 1px solid #d8d8d8;
+    padding: 5px 20px;
+}
+.disableButton{
+    background-color: #d8d8d8;
+}
